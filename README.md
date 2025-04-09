@@ -12,7 +12,7 @@
 
 ## Run Simulation
 1. Connect to MQTT server and publish message to same Topic and QOS: 0 using the publisher account
-MQTT Host : 
+\nMQTT Host : 
     TLS MQTT URL : 66fde72f2b504a62a2a89926aae05d9f.s1.eu.hivemq.cloud:8883
     TLS Websocket URL : ws://66fde72f2b504a62a2a89926aae05d9f.s1.eu.hivemq.cloud:8884/mqtt
 Topic : test/topic
