@@ -3,7 +3,7 @@
 1. Clone this repository
 2. Build and run the App Module
 
-## Design
+## Design and Dependencies
 1. MVVM, not cleaned yet (DI not implemented yet, got error for my old version of Android Studio to implement Hilt with KSP and i didn't have much time to work around)
 2. OpenStreetMap (OSM) for Maps
 3. Jetpack Compose
@@ -19,7 +19,8 @@ Topic : test/topic
 username : publisher
 password : Publisher1
 2. Format Message
-   ```{
+   ```
+   {
    "vehicleId":String,
    "lat":Double,
    "lng":Double,
